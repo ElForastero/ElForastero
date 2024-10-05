@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 💬 “Make it correct, make it clear, make it concise, make it fast. In that order.” - Wes Dyer
 
 ### Keys
-[SSH Public Keys](https://github.com/elforastero.keys)
-[GPG Public Key](https://github.com/elforastero.asc)
+- [SSH Public Keys](https://github.com/elforastero.keys)
+- [GPG Public Key](https://github.com/elforastero.asc)
